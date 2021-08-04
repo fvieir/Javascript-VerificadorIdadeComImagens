@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(49, 49, 214, 0.918);
+    font: normal 18pt, sans-serif;
+   
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+div img#foto {
+    border-radius: 50%;
+    width: 50%;
+    height: 80%;
+    text-align: center;
+    margin: 10px;
+}
+
+div#res {
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+section{
+    background-color: #fff;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 3px, 3px, 10px rgba(0, 0, 0, 0.205);
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+}
+
+footer a{
+    color: #fff;
+}
